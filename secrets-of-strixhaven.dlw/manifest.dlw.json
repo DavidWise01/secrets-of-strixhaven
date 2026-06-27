@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-SECRETS_OF_STRIXHAVEN",
+  "name": "SECRETS OF STRIXHAVEN · SOS",
+  "universe": "ARENA",
+  "moniker": "⟦SECRETS OF STRIXHAVEN · SOS:secrets-of-strixhaven:fe3f67⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "fe3f67d355b3275a355ac6c1d07b0d50b36c0eed30a07e83e489e410bc8062be",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
